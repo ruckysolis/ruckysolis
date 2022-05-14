@@ -5,6 +5,8 @@
 - Certificado en Maestria en Comunicación en Tecnologías Educativas. Generación 2010-2012
 - Actualmente estudiando Licenciatura en Derecho en Universidad Veracruzana Región Poza Rica-Tuxpan. Desde 2020
 
+Tengo un [blog: ruckysolis.com](http://ruckysolis.com)
+
 También soy fundador del proyecto [Derecho y Desarrollo](https://ruckysolis.github.io/derechoydesarrollo/)
 
 ### Leyendo
