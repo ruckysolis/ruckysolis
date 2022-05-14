@@ -1,8 +1,4 @@
----
-title: "Sobre mí"
----
 
-![image](https://user-images.githubusercontent.com/2883426/166320630-28922fc1-e93d-42d0-a0f5-a758e4306e79.png)
 
 
 - Licenciado en Ciencias de la Comunicación, egresado de la Universidad Golfo de México Campus Poza Rica Generaicón. 2006-2010
