@@ -20,4 +20,4 @@ También me puedes encontrar en:
 
 [![Twitter: ruckysolis](https://img.shields.io/twitter/follow/ruckysolis?style=social)](https://twitter.com/ruckysolis)
 [![Linkedin: ruckysolis](https://img.shields.io/badge/-ruckysolis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruckysolis/)](https://www.linkedin.com/in/ruckysolis/)
-[![GitHub Ruckysolis](https://img.shields.io/github/followers/ruckysolis?label=follow&style=social)](https://github.com/ruckysolis)
+[![GitHub ruckysolis](https://img.shields.io/github/followers/ruckysolis?label=follow&style=social)](https://github.com/ruckysolis)
