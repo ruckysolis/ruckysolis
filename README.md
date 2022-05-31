@@ -14,7 +14,8 @@ I have learning Web Design since 2012, and I am always studying a lot of things.
 
 <a href="https://www.twitter.com/ruckysolis" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ruckysolis?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/ruckysolis" target="_blank" rel="noreferrer"><img
+/></a><br>
+<a href="https://www.github.com/ruckysolis" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ruckysolis?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
