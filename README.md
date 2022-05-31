@@ -1,15 +1,3 @@
-- Licenciado en Ciencias de la Comunicación, egresado de la Universidad Golfo de México Campus Poza Rica Generaicón. 2006-2010
-- Certificado en Maestria en Comunicación en Tecnologías Educativas. Generación 2010-2012
-- Actualmente estudiando Licenciatura en Derecho en Universidad Veracruzana Región Poza Rica-Tuxpan. Desde 2020
-
-También me puedes encontrar en:
-
-- [Grupo de Telegram](https://t.me/+UUbaa45AyTCRaA8I)
-- [Telegram @ruckysolis](https://t.me/ruckysolis)
-- [TikTok @ruckysolis](https://www.tiktok.com/@ruckysolis)
-- [Discord](https://discord.gg/fTcp2gyZh4)
-
-
 Hi 👋 My name is Ricardo Solis
 ==============================
 
