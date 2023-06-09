@@ -9,8 +9,6 @@ I have learning Web Design since 2012, and I am always studying a lot of things.
 * 🌍  I'm based in México
 * 🖥️  See my portfolio at [My Portfolio](http://ruckysolis.com)
 * ✉️  You can contact me at [yosoy@ruckysolis.com](mailto:yosoy@ruckysolis.com)
-* 🚀  I'm currently working on [Derecho y Desarrollo](http://https://ruckysolis.github.io/derechoydesarrollo/)
-* 🧠  I'm learning Azure AZ900 Certification
 
 <a href="https://www.twitter.com/ruckysolis" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ruckysolis?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
